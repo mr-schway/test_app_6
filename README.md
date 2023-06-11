@@ -25,4 +25,4 @@ Things you may want to cover:
 
 
 
-The complete Ruby on rails course
+The complete Ruby on rails developer course
